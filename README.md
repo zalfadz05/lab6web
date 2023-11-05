@@ -14,8 +14,9 @@
 ## Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
 ## Membuat Layout Sederhana
+Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
 
-
+![Screenshot (282)](https://github.com/zalfadz05/lab6web/assets/115516617/01d46963-5e7a-4584-8067-97031b8a53f1)
 
 ## Buat folder baru dengan nama ```Lab6_css_framework``` dan file css dengan nama ```style.css```
 
@@ -353,3 +354,8 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 }
 ```
 ## Hasil Output
+
+![Screenshot (282)](https://github.com/zalfadz05/lab6web/assets/115516617/69aac9e1-d547-49db-aa42-fc09bf19b8bd)
+
+![Screenshot (284)](https://github.com/zalfadz05/lab6web/assets/115516617/547b5c61-3724-4d42-906d-a1f27812f3a0)
+
